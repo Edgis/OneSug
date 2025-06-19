@@ -10,7 +10,7 @@ This is a PyTorch implementation for [OneSug: The Unified End-to-End Generative 
 
 Data
 ----------------------
-We have given 10 anonymized training data samples in `data.txt`. Each sample contains three columns: prefix, searched_query, rqvae_query, chosen_sample, reject_sample, pos_score, neg_score.
+We have given 10 anonymized training data samples in `data.txt`. Each sample contains 7 columns: prefix, searched_query, rqvae_query, chosen_sample, reject_sample, pos_score, neg_score.
 
 Train
 ----------------------
