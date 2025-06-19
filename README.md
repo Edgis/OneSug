@@ -8,13 +8,13 @@ OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggest
 OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion
 
 
-This is a PyTorch implementation for [OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion, KDD-2025].
+This is a PyTorch implementation for [OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion].
 
 
 
 Data
 ----------------------
-We have given 10 anonymized training data samples in `data.txt`. Each sample contains three columns: prefix, query, searched_query.
+We have given 10 anonymized training data samples in `data.txt`. Each sample contains three columns: prefix, searched_query, rqvae_query, chosen_sample, reject_sample, pos_score, neg_score.
 
 Train
 ----------------------
