@@ -14,4 +14,4 @@ We have given 10 anonymized training data samples in `data.txt`. Each sample con
 
 Train
 ----------------------
-Because OneSug has been applied to Kuaishou online, the code is company confidential. Therefore, we make the training pseudocode public in `main.py` to help researchers better understand and reproduce our paper. 
+Because OneSug has been applied online, the code is company confidential. Therefore, we make the training pseudocode public in `main.py` to help researchers better understand and reproduce our paper. 
